@@ -1,0 +1,19 @@
+
+  h1 {
+    color: rgb(118, 51, 227);
+    font-family: arial;
+    font-size: 50px;
+    text-align: center;
+  }
+  p {
+    text-indent: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    color: rgb(27, 101, 154);
+    font-family: verdana;
+  }
+  li {
+    color: rgb(27, 101, 154);
+    font-size: size 12px;
+    font-family: cursive;
+  }
